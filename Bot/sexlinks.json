@@ -1,24 +1,6 @@
 {
-  "imgurLinks": [
-    "https://i.imgur.com/xSm0Zd4.mp4",
-    "https://i.imgur.com/sb7jUeA.mp4",
-    "https://i.imgur.com/fYa6ObQ.mp4",
-    "https://i.imgur.com/ME6kPAR.mp4",
-    "https://i.imgur.com/FbPTvNO.mp4",
-    "https://i.imgur.com/dUQP0jS.mp4",
-    "https://i.imgur.com/cxPMJ0s.mp4",
-    "https://i.imgur.com/hB7EUWd.mp4",
-    "https://i.imgur.com/fTrxYYu.mp4",
-    "https://i.imgur.com/yU7srOD.mp4",
-    "https://i.imgur.com/HtA95oO.mp4",
-    "https://i.imgur.com/RDY7yQC.mp4",
-    "https://i.imgur.com/LZ5Nu8b.mp4",
-    "https://i.imgur.com/U3y67Dj.mp4",
-    "https://i.imgur.com/Un7Af9t.mp4",
-    "https://i.imgur.com/lvLW12l.mp4"
-  ],
   "driveLinks": [
-	"https://drive.google.com/uc?export=download&id=1-gJdG8bxmZLyOC7-6E4A5Hm95Q9gWIPO",
+                        "https://drive.google.com/uc?export=download&id=1-gJdG8bxmZLyOC7-6E4A5Hm95Q9gWIPO",
 			"https://drive.google.com/uc?export=download&id=1-ryNR8j529EZyTCuMur9wmkFz4ahlv-f",
 			"https://drive.google.com/uc?export=download&id=1-vHh7XBtPOS3s42q-s8s30Bzsx2u6czu",
 			"https://drive.google.com/uc?export=download&id=11IUd-PDHozLmh_RtvSf0S-f3G6wut1ZT",
@@ -131,6 +113,6 @@
 			"https://drive.google.com/uc?export=download&id=1x3N_JlNIROo_2v7A4jYsIzIYd3Ez-0ep",
 			"https://drive.google.com/uc?export=download&id=1yZMUmIIq8nvbannu3DUmLy7SOzgw0TMe",
 			"https://drive.google.com/uc?export=download&id=1ymACbIzXyMNJIF8O_XImq9QA4fZcTNdR",
-			"https://drive.google.com/uc?export=download&id=1zRAFPp3sMPOlVyhoEPnHflRpiRe6C2pt"    
+			"https://drive.google.com/uc?export=download&id=1zRAFPp3sMPOlVyhoEPnHflRpiRe6C2pt",
   ]
 }
